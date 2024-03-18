@@ -1,1 +1,1 @@
-# GENAIveltech
+GENAI
